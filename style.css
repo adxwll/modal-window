@@ -1,0 +1,25 @@
+button{
+    width: 250px;
+    height: 100px;
+    margin: 100px;
+    background-color: darkkhaki;
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+}
+#modal{
+    display: none;
+    background-color: aquamarine;
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+    padding: 50px;
+  
+}
+.close{
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
